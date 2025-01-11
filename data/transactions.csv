@@ -1,0 +1,5 @@
+transaction_id,amount,time_gap,target
+1,1200,3,1
+2,500,2,0
+3,2000,1,1
+4,800,5,0
